@@ -1,0 +1,6 @@
+C:\Sarah\object-oriented-programming\FinalProject\POS\POS\bin\Debug\POS.dll
+C:\Sarah\object-oriented-programming\FinalProject\POS\POS\bin\Debug\POS.pdb
+C:\Sarah\object-oriented-programming\FinalProject\POS\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Sarah\object-oriented-programming\FinalProject\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Sarah\object-oriented-programming\FinalProject\POS\POS\obj\Debug\POS.dll
+C:\Sarah\object-oriented-programming\FinalProject\POS\POS\obj\Debug\POS.pdb

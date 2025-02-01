@@ -1,0 +1,6 @@
+C:\Sarah\object-oriented-programming\FinalProject\Members\Members\obj\Debug\Members.csprojAssemblyReference.cache
+C:\Sarah\object-oriented-programming\FinalProject\Members\Members\obj\Debug\Members.csproj.CoreCompileInputs.cache
+C:\Sarah\object-oriented-programming\FinalProject\Members\Members\bin\Debug\Members.dll
+C:\Sarah\object-oriented-programming\FinalProject\Members\Members\bin\Debug\Members.pdb
+C:\Sarah\object-oriented-programming\FinalProject\Members\Members\obj\Debug\Members.dll
+C:\Sarah\object-oriented-programming\FinalProject\Members\Members\obj\Debug\Members.pdb
